@@ -1,0 +1,2 @@
+ConnectionStrings:
+  test: "Data Source=.\\SQLEXPRESS;Database=test;Trusted_Connection=true;TrustServerCertificate=True;"
